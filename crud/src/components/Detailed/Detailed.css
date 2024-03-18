@@ -1,0 +1,12 @@
+.buttons {
+    display: flex;
+    justify-content: end;
+}
+
+.edit {
+    background-color: rgb(154, 154, 81);
+}
+
+.delete {
+    background-color: brown;
+}
